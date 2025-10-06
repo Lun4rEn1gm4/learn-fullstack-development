@@ -1,0 +1,51 @@
+.main{
+    margin-top: 100px;
+}
+
+
+.google-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.search-input {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display: block;
+
+    width: 400px;
+    line-height: 24px;
+
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.btn-both{
+    display: flex;
+    justify-content:center;
+}
+
+.btn-gs{
+    margin-right: 10px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none ;
+    background: #dfe1e5;
+}
+.btn-lucky{
+    margin-left: 10px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none ;
+    background: #dfe1e5;
+}
